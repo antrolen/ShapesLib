@@ -1,0 +1,11 @@
+# Ignore Compiled Code
+ShapeLib.Lib/bin/
+ShapeLib.Lib/obj/
+ShapeLib.Test/bin/
+ShapeLib.Test/obj/
+
+# Ignore Memo
+TODO
+Command.md
+HW.md
+

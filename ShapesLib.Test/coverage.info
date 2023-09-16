@@ -1,0 +1,191 @@
+SF:/home/aev/Documents/TOP/TESING MostovoyRodion/HW3/ShapesLib/ShapesLib.Lib/fCircle.cs
+FN:5,System.Double ShapesLib.Lib.Circle::get_Radius()
+FNDA:6,System.Double ShapesLib.Lib.Circle::get_Radius()
+DA:6,6
+FN:10,System.Double ShapesLib.Lib.Circle::get_Area()
+FNDA:1,System.Double ShapesLib.Lib.Circle::get_Area()
+DA:11,1
+FN:38,System.Boolean ShapesLib.Lib.Circle::IsAreaCalculatable(System.Double)
+FNDA:4,System.Boolean ShapesLib.Lib.Circle::IsAreaCalculatable(System.Double)
+DA:39,4
+DA:40,4
+DA:41,4
+DA:42,4
+FN:18,System.Void ShapesLib.Lib.Circle::.ctor(System.Double)
+FNDA:18,System.Void ShapesLib.Lib.Circle::.ctor(System.Double)
+DA:19,18
+DA:20,9
+DA:21,9
+DA:22,9
+DA:23,9
+DA:24,9
+DA:25,9
+DA:26,5
+DA:27,5
+DA:30,5
+DA:31,1
+DA:34,3
+DA:36,3
+BRDA:20,14,0,7
+BRDA:20,22,0,6
+BRDA:20,30,0,5
+BRDA:20,14,1,4
+BRDA:20,22,1,4
+BRDA:20,30,1,4
+BRDA:20,49,0,5
+BRDA:20,49,1,4
+BRDA:30,120,0,1
+BRDA:30,120,1,3
+LF:19
+LH:19
+BRF:10
+BRH:10
+FNF:4
+FNH:4
+end_of_record
+SF:/home/aev/Documents/TOP/TESING MostovoyRodion/HW3/ShapesLib/ShapesLib.Lib/fSquare.cs
+FN:11,System.Double ShapesLib.Lib.Square::get_A()
+FNDA:3,System.Double ShapesLib.Lib.Square::get_A()
+DA:12,3
+FN:16,System.Double ShapesLib.Lib.Square::get_Area()
+FNDA:1,System.Double ShapesLib.Lib.Square::get_Area()
+DA:17,1
+FN:45,System.Boolean ShapesLib.Lib.Square::IsAreaCalculatable(System.Double)
+FNDA:4,System.Boolean ShapesLib.Lib.Square::IsAreaCalculatable(System.Double)
+DA:46,4
+DA:47,4
+DA:48,4
+FN:23,System.Void ShapesLib.Lib.Square::.ctor(System.Double)
+FNDA:9,System.Void ShapesLib.Lib.Square::.ctor(System.Double)
+DA:24,9
+DA:25,9
+DA:26,9
+DA:27,9
+DA:28,9
+DA:29,9
+DA:30,9
+DA:31,9
+DA:32,5
+DA:33,5
+DA:36,4
+DA:37,1
+DA:38,1
+DA:41,3
+DA:42,3
+BRDA:26,14,0,7
+BRDA:26,22,0,6
+BRDA:26,30,0,5
+BRDA:26,14,1,4
+BRDA:26,22,1,4
+BRDA:26,30,1,4
+BRDA:26,49,0,5
+BRDA:26,49,1,4
+BRDA:36,120,0,1
+BRDA:36,120,1,3
+LF:20
+LH:20
+BRF:10
+BRH:10
+FNF:4
+FNH:4
+end_of_record
+SF:/home/aev/Documents/TOP/TESING MostovoyRodion/HW3/ShapesLib/ShapesLib.Lib/fTriangle.cs
+FN:6,System.Double ShapesLib.Lib.Triangle::get_A()
+FNDA:11,System.Double ShapesLib.Lib.Triangle::get_A()
+DA:7,11
+FN:11,System.Double ShapesLib.Lib.Triangle::get_B()
+FNDA:11,System.Double ShapesLib.Lib.Triangle::get_B()
+DA:12,11
+FN:16,System.Double ShapesLib.Lib.Triangle::get_C()
+FNDA:11,System.Double ShapesLib.Lib.Triangle::get_C()
+DA:17,11
+FN:22,System.Boolean ShapesLib.Lib.Triangle::get_IsRight()
+FNDA:2,System.Boolean ShapesLib.Lib.Triangle::get_IsRight()
+DA:23,2
+DA:24,2
+DA:25,2
+BRDA:23,55,0,1
+BRDA:23,112,0,1
+BRDA:23,55,1,1
+BRDA:23,112,1,1
+FN:32,System.Double ShapesLib.Lib.Triangle::get_Area()
+FNDA:2,System.Double ShapesLib.Lib.Triangle::get_Area()
+DA:33,2
+DA:34,2
+DA:35,2
+FN:75,System.Boolean ShapesLib.Lib.Triangle::IsIncorrectSide(System.Double)
+FNDA:63,System.Boolean ShapesLib.Lib.Triangle::IsIncorrectSide(System.Double)
+DA:76,63
+DA:77,63
+DA:78,63
+DA:79,63
+DA:80,63
+DA:81,63
+DA:82,63
+BRDA:77,7,0,57
+BRDA:77,15,0,54
+BRDA:77,23,0,51
+BRDA:77,7,1,12
+BRDA:77,15,1,12
+BRDA:77,23,1,12
+FN:84,System.Boolean ShapesLib.Lib.Triangle::IsExist(System.Double,System.Double,System.Double)
+FNDA:11,System.Boolean ShapesLib.Lib.Triangle::IsExist(System.Double,System.Double,System.Double)
+DA:85,11
+DA:86,11
+DA:87,11
+BRDA:86,5,0,8
+BRDA:86,11,0,8
+BRDA:86,5,1,3
+BRDA:86,11,1,3
+FN:88,System.Boolean ShapesLib.Lib.Triangle::IsAreaCalculable(System.Double,System.Double,System.Double)
+FNDA:7,System.Boolean ShapesLib.Lib.Triangle::IsAreaCalculable(System.Double,System.Double,System.Double)
+DA:89,7
+DA:90,7
+DA:91,7
+DA:92,7
+FN:93,System.Double ShapesLib.Lib.Triangle::CalcAreaByThreeSides(System.Double,System.Double,System.Double)
+FNDA:9,System.Double ShapesLib.Lib.Triangle::CalcAreaByThreeSides(System.Double,System.Double,System.Double)
+DA:94,9
+DA:95,9
+DA:96,9
+DA:98,9
+FN:45,System.Void ShapesLib.Lib.Triangle::.ctor(System.Double,System.Double,System.Double)
+FNDA:26,System.Void ShapesLib.Lib.Triangle::.ctor(System.Double,System.Double,System.Double)
+DA:46,26
+DA:47,26
+DA:48,26
+DA:49,5
+DA:50,5
+DA:52,21
+DA:53,5
+DA:54,5
+DA:56,16
+DA:57,5
+DA:58,5
+DA:60,11
+DA:61,4
+DA:62,4
+DA:64,7
+DA:65,1
+DA:66,1
+DA:69,6
+DA:70,6
+DA:71,6
+DA:72,6
+BRDA:48,16,0,5
+BRDA:48,16,1,21
+BRDA:52,38,0,5
+BRDA:52,38,1,16
+BRDA:56,60,0,5
+BRDA:56,60,1,11
+BRDA:60,87,0,4
+BRDA:60,87,1,7
+BRDA:64,262,0,1
+BRDA:64,262,1,6
+LF:48
+LH:48
+BRF:24
+BRH:24
+FNF:10
+FNH:10
+end_of_record
