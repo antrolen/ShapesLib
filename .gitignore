@@ -1,8 +1,7 @@
 # Ignore Compiled Code
-ShapeLib.Lib/bin/
-ShapeLib.Lib/obj/
-ShapeLib.Test/bin/
-ShapeLib.Test/obj/
+bin/
+obj/
+
 
 # Ignore Memo
 TODO
